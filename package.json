@@ -2,7 +2,7 @@
   "name": "apptasks",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://mikee210521.github.io/appTasks",
+  "homepage": "https://mikee210521.github.io/appTasks",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
